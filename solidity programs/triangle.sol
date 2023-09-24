@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity ^0.8.20;
+// pragma solidity ^0.8.20;
 
 contract RightAngledTriangle {
     //To check if a triangle with side lenghts a,b,c is a right angled triangle
